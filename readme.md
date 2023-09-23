@@ -29,8 +29,8 @@ I designed this adaptive voter model:
 
 ### Simulation Process
 The Republican (red dots), Neutral(white dots), and Democrat (blue dots) can be perfectly sepatated in the end of the simulation.
+![image](https://github.com/xin-wang-kr/Adaptive-Voter-Model-Opinion-Dynamics/assets/28020765/c2a685a7-3173-4cec-9cd1-2b26bbcd8f16)
 
-![](https://github.com/xin-wang-kr/Adaptive-Voter-Model-Opinion-Dynamics/animation-ny.mp4)
 
 ### Comparison between the Simulation Results and the Actual Results
 ![image](https://github.com/xin-wang-kr/Adaptive-Voter-Model-Opinion-Dynamics/assets/28020765/d87b5976-9771-495e-a792-49e3cb0e479d)
