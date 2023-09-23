@@ -15,9 +15,13 @@ situation indicates that there remain some challenges that prevent the model fro
 potential due to the lack of actual network connection data among Twitter users. Future research
 agenda is discussed to remove some of the current limitations.
 
+### Data Source
+Zhao, P., Chen, X., & Wang, X. (2021). Classifying COVID-19-related hate Twitter users using
+deep neural networks with sentiment-based features and geopolitical factors. International
+Journal of Society Systems Science, 13(2), 125–139.
+
 ### Weighted Majority Decision Rule
 <img width="595" alt="image" src="https://github.com/xin-wang-kr/Adaptive-Voter-Model-Opinion-Dynamics/assets/28020765/3b3cc7bd-7551-46f5-951e-2c57e79cf9a1">
-
 
 ### Adaptive Voter Model
 I designed this adaptive voter model:
@@ -25,8 +29,7 @@ I designed this adaptive voter model:
 
 ### Simulation Process
 The Republican (red dots), Neutral(white dots), and Democrat (blue dots) can be perfectly sepatated in the end of the simulation.
-![image](https://github.com/xin-wang-kr/Adaptive-Voter-Model-Opinion-Dynamics/assets/28020765/aa02dc7b-a0e6-406b-9cd4-b94f3360067b)
-
+https://github.com/xin-wang-kr/Adaptive-Voter-Model-Opinion-Dynamics/assets/28020765/a798f32b-5bcd-4548-a3cd-6ceb66390168
 
 ### Comparison between the Simulation Results and the Actual Results
 ![image](https://github.com/xin-wang-kr/Adaptive-Voter-Model-Opinion-Dynamics/assets/28020765/d87b5976-9771-495e-a792-49e3cb0e479d)
