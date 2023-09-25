@@ -14,8 +14,7 @@ clustering patterns. The whole simulation can achieve a stable stage without any
 number of edges and the average shortest path length when the nodes with different opinion states
 are perfectly separated. The comparison between the simulated results and the real US election
 situation indicates that there remain some challenges that prevent the model from achieving its full
-potential due to the lack of actual network connection data among Twitter users. Future research
-agenda is discussed to remove some of the current limitations.
+potential due to the lack of actual network connection data among Twitter users. 
 
 ### Data Source
 Zhao, P., Chen, X., & Wang, X. (2021). Classifying COVID-19-related hate Twitter users using
