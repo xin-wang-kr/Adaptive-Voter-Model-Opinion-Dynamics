@@ -1,4 +1,4 @@
-# Opinion Ecology Based on Social Network and Textual Sentiment of Twitter Tweets
+# Applying Adaptive Voter Model with Weighted Majority Rule to Simulate Opinion Ecology Based on Social Network and Textual Sentiment of Twitter Tweets
 
 ### Introduction
 
