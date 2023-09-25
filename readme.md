@@ -8,7 +8,7 @@ Textual sentiment is important when we consider social influence on social media
 the ecology of political opinions on social media (i.e., Twitter), an adaptive voter model, which
 employs a weighted majority rule and adaptive edge removal, is introduced in this study. The
 model is used to investigate the extent to which a network constructed based on textual sentiment
-from social media and user geographic location aligns with the opinion formation patterns in realworld
+from social media and user geographic location aligns with the opinion formation patterns in real world
 data. The simulation results by the adaptive voter model can successfully show salient
 clustering patterns. The whole simulation can achieve a stable stage without any change in the
 number of edges and the average shortest path length when the nodes with different opinion states
