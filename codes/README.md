@@ -1,4 +1,4 @@
-Our project on adaptive voter model experienced many trials.
+My project on adaptive voter model experienced many trials.
 It can be summarized to 3 stages:
 1. Political-opinion-voter-model.py: Simple voter model. The results always converge to
 one state.
